@@ -1,0 +1,7 @@
+ ! NOAA/PMEL TMAP
+ ! FERRET v6.9  
+ ! Linux 2.6.32-431.23.3.el6.x86_64 64-bit - 08/22/14
+ ! 13-May-20 11:05     
+
+go CA_and_PCA_code.R
+q
